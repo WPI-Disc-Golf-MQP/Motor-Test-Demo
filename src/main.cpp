@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <button.h>
 
-#define BUTTON_PIN 3
+#define BUTTON_PIN 11
 #define PWM_PIN LED_BUILTIN
 
 Button button(BUTTON_PIN);
